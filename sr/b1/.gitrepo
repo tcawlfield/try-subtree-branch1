@@ -5,7 +5,7 @@
 ;
 [subrepo]
 	remote = git@github.com:tcawlfield/try-subtree-branch1.git
-	branch = v0.0.0.0.3
-	commit = be93bfcf334366988f9590ebef437e8c57c9721c
-	parent = fe494f35eee016e36991580186bedad2b92086f6
+	branch = v0.0.0.0.4
+	commit = c19323a87804f3b4374ca4faa3fb8520aad6827e
+	parent = 467cd6f75dfa43ef7e544a4f7fd757f3cc419ac4
 	cmdver = 0.3.0
