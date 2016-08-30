@@ -6,6 +6,6 @@
 [subrepo]
 	remote = git@github.com:tcawlfield/try-subtree-branch1.git
 	branch = master
-	commit = 6e67bd4b59220ae1e114f9451c6404942f062633
-	parent = e5ffab5fdd0a0b2bcdefe89a7496d8bb497ac0f8
+	commit = 956bfc10995eaac6a568ddb9c59ef28040be63c2
+	parent = f718d2c221d6f6265a61248689650c5b2e04fdd1
 	cmdver = 0.3.0
